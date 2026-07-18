@@ -1,6 +1,7 @@
 Project Title
 TravelGo – UI/UX Design for a Travel Booking Application
-link:Travel Booking App
+link:Travel Booking App (1).zip
+
 Project Description
 TravelGo is a modern travel booking application designed in Figma. The application allows users to search and book flights, trains, and hotels through a simple and user-friendly interface. The design focuses on providing a smooth booking experience with an attractive and easy-to-use layout.
 Features
