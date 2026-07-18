@@ -1,5 +1,6 @@
 Project Title
 TravelGo – UI/UX Design for a Travel Booking Application
+
 Prototype link:https://www.figma.com/proto/DARb7Qi4VWKbXwjYhXdW68/Travel-Booking-App--Community-?node-id=1-2&p=f&t=hgWiKyrwfsC4F1WO-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1
 
 Project Description
